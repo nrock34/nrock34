@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=A839AD&text=naeem's%20%20profile&section=header&reversal=false&descAlign=73&desc=a%20few%20projects%20I%20work%20on&descAlignY=66"
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=220&color=A839AD&text=naeem's%20%20profile&section=header&reversal=false&descAlign=73&desc=a%20few%20projects%20I%20work%20on&descAlignY=66"
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nrock34&label=Profile%20views&color=0e75b6&style=flat" alt="nrock34" /></p>
